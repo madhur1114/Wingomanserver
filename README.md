@@ -1,10 +1,9 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title> WINGOMAN Predictor</title>
+    <title>WINGOMAN❤️‍🔥Predictor</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         * {
@@ -1005,10 +1004,10 @@
     <div class="login-screen" id="loginScreen">
         <div class="login-logo">
             <i class="fas fa-terminal"></i>
-            <span class="glitch" data-text="WINGOMAN PREDICTOR"> WINGOMAN PREDICTOR</span>
+            <span class="glitch" data-text="QUANTUM PREDICTOR">QUANTUM PREDICTOR</span>
         </div>
-        <h1 class="login-title"> 🚫LOGIN🚫 </h1>
-        <p class="login-subtitle"> ADVANCE LOGIC ° WINGOMAN PRIDICTION° </p>
+        <h1 class="login-title">SECURE ACCESS SYSTEM</h1>
+        <p class="login-subtitle">Neural Network Authentication • Quantum Encrypted Login • Secure Key Validation</p>
         
         <div class="login-card">
             <div class="login-input-group">
@@ -1098,9 +1097,9 @@
             <header>
                 <div class="logo">
                     <i class="fas fa-terminal"></i>
-                    <span class="glitch" data-text="QUANTUM PREDICTOR">QUANTUM PREDICTOR</span>
+                    <span class="glitch" data-text="WINGOMAN PREDICTOR">WINGOMAN PREDICTOR</span>
                 </div>
-                <h1>ADVANCED LOTTERY ANALYTICS SYSTEM</h1>
+                <h1>ADVANCED WINGO ANALYTICS SYSTEM</h1>
                 <p class="subtitle">Neural Network Prediction Engine • Real-time Data Analysis • Quantum Algorithm Processing</p>
             </header>
             
@@ -1108,7 +1107,7 @@
                 <div class="card">
                     <div class="card-title">
                         <i class="fas fa-satellite"></i>
-                        <h2>Data Input</h2>
+                        <h2>PERIOD NO. xxxx</h2>
                     </div>
                     
                     <div class="input-group">
@@ -1311,7 +1310,7 @@
             </div>
             
             <footer>
-                <p>QUANTUM PREDICTION SYSTEM &copy; 2023 | SECURE ENCRYPTED CONNECTION: <span class="status-indicator status-active"></span> ACTIVE</p>
+                <p>WINGOMAN PREDICTION SYSTEM &copy; 2025 | SECURE ENCRYPTED CONNECTION: <span class="status-indicator status-active"></span> ACTIVE</p>
                 <p style="margin-top: 10px; font-size: 0.8rem; opacity: 0.7;">
                     Note: Predictions are based on statistical analysis and historical patterns. Actual results may vary.
                 </p>
