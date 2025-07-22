@@ -1,0 +1,2 @@
+# Wingomanserver
+All wingo pridiction 
